@@ -4,56 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4753541a-06b1-46b4-9e21-3102a97d6dad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/BankApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/IciciBankAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/PhonepeApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/YesBankAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/thirdparty/IciciBankApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/thirdparty/YesBankApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Builder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Builder/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Builder/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/ChocoChips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/ChocolateCone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/IceCreamConstituents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/MangoScoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/OrangeScoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helper/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helper/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helper/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/EmailSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/Flipkart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/InvoiceGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/OrderCancelledSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/OrderPlacerSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProdBuilder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProdBuilder/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prototype/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prototype/IntelligentStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prototype/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prototype/Registry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prototype/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/Eager/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/Single/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/doublechecking/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stratergy/BikePathCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stratergy/CarPathCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stratergy/GoogleMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stratergy/PathCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stratergy/PathCalculatorFactory.java" afterDir="false" />
-    </list>
+    <list default="true" id="4753541a-06b1-46b4-9e21-3102a97d6dad" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,18 +32,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/Desktop/demo/pom.xml&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL/Desktop/Design-Patterns/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Client.executor": "Run",
+    "Application.Observer.Client.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DELL/Desktop/demo/pom.xml",
+    "onboarding.tips.debug.path": "C:/Users/DELL/Desktop/Design-Patterns/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Observer.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProdBuilder.Client" />
